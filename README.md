@@ -15,7 +15,7 @@ The two Fitzing Files are for documentation purposes only. Cannot vouch for exac
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
