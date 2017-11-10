@@ -8,9 +8,6 @@ The two Fitzing Files are for documentation purposes only. Cannot vouch for exac
 2. LAUNCHXL-CC2640R2 Rev 1.0 (2017)
 
 
-### Code
-
-Code developed using CCS Cloud as well as Energia
 
 ## Authors
 
