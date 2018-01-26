@@ -9,7 +9,7 @@ The two Fitzing Files are for documentation purposes only. Cannot vouch for exac
 
 ## MIT App Inventor Examples
 
-1. CC2640R2 Heart Rate Demo (aia file)
+1. CC2640R2 Heart Rate Demo (aia file): This app reads the heart rate data and the heart rate monitor position information. It also acts as a demo for the immediate alert profile.
 
 ## Authors
 
