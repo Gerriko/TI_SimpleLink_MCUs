@@ -7,7 +7,9 @@ The two Fitzing Files are for documentation purposes only. Cannot vouch for exac
 1. CC3200-LAUNCHXL Rev 3.2 (2015)
 2. LAUNCHXL-CC2640R2 Rev 1.0 (2017)
 
+## MIT App Inventor Examples
 
+1. CC2640R2 Heart Rate Demo (aia file)
 
 ## Authors
 
